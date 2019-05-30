@@ -1,4 +1,4 @@
 10	300
-plam    10   15
-Puen    15  26
-Puen	5	plam	3
+plam    1   15
+Puen    1  26
+Puen	1	plam	1
