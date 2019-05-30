@@ -31,7 +31,7 @@ import os
 import numpy as np
 import facenet
 
-def evaluate(embeddings, actual_issame, nrof_folds=10, distance_metric=0, subtract_mean=False):
+def evaluate(embeddings, actual_issame, nrof_folds=1, distance_metric=0, subtract_mean=False):
     # Calculate evaluation metrics
     thresholds = np.arange(0, 4, 0.01)
     embeddings1 = embeddings[0::2]
