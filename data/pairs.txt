@@ -1,4 +1,4 @@
 10	300
-palm    10   15
+plam    10   15
 Puen    15  26
-Puen	5	palm	3
+Puen	5	plam	3
