@@ -52,7 +52,7 @@ def main(args):
             print('')
             print('pair: ', pairs)
             print('')
-            print('lfw_dir:', args.lfw_dir)
+            print('args:', os.path.expanduser(args.lfw_pairs))
             print('')
 
             # Get the paths for the corresponding images
